@@ -1,0 +1,21 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(219, 215, 194);
+}
+
+h1 {
+    color: rgb(7, 7, 90);
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(159, 138, 98);
+}
+.largetxt{
+    font-size: 25;
+}
+
+.chef-image {
+    width: auto;
+
+}
