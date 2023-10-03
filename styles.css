@@ -16,6 +16,10 @@ h2 {
 }
 
 .chef-image {
-    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
 
 }
